@@ -10,8 +10,8 @@
 
 | 版本 | 适用设备 | 版本号 | 大小 | 下载 |
 | --- | --- | --- | --- | --- |
-| 📱 星空影视 手机版 | Android 手机 / 平板 | v1.0 | 约 75 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v1.0/Xingkong-Phone-v1.0.apk) |
-| 📺 星空影视 TV 版 | 安卓电视 / 电视盒子 | v27.0 | 约 36 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v27.0/Xingkong-TV-v27.0.apk) |
+| 📱 星空影视 手机版 | Android 手机 / 平板 | v16.0 | 约 75 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v16.0/Xingkong-Phone-v16.0.apk) |
+| 📺 星空影视 TV 版 | 安卓电视 / 电视盒子 | v57.0 | 约 36 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v57.0/Xingkong-TV-v57.0.apk) |
 
 > 💡 **推荐渠道**：优先下载对应设备的最新版本，已修复历史问题、体验更稳定。
 >
@@ -21,12 +21,12 @@
 
 ## ✨ 功能特色
 
-### 📱 手机版（v1.0）
+### 📱 手机版（v16.0）
 - 海量影视内容，支持在线播放
 - 画中画播放（PIP），边看边聊不耽误
 - 清晰度自由切换，播放流畅稳定
 
-### 📺 TV 版（v27.0）
+### 📺 TV 版（v57.0）
 - 专为大屏优化，遥控器操作友好
 - 支持 **直播 + 点播** 双模式
 - 观看历史记录，随时续播
@@ -65,6 +65,16 @@ A：请确认设备 Android 版本满足要求，并检查是否下载了对应�
 ---
 
 ## 📝 更新日志
+
+### v57.0（TV 版）
+- 直播/点播体验优化
+- 界面与播放稳定性升级
+- 修复已知问题
+
+### v16.0（手机版）
+- 播放体验优化
+- 性能与稳定性升级
+- 修复已知问题
 
 ### v27.0（TV 版）
 - 全新大屏界面优化
