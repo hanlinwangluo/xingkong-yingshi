@@ -10,7 +10,7 @@
 
 | 版本 | 适用设备 | 版本号 | 大小 | 下载 |
 | --- | --- | --- | --- | --- |
-| 📱 星空影视 手机版 | Android 手机 / 平板 | v16.0 | 约 75 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v16.0/Xingkong-Phone-v16.0.apk) |
+| 📱 星空影视 手机版 | Android 手机 / 平板 | v17.0 | 约 76 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v17.0/Xingkong-Phone-v17.0.apk) |
 | 📺 星空影视 TV 版 | 安卓电视 / 电视盒子 | v57.0 | 约 36 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v57.0/Xingkong-TV-v57.0.apk) |
 
 > 💡 **推荐渠道**：优先下载对应设备的最新版本，已修复历史问题、体验更稳定。
@@ -65,6 +65,12 @@ A：请确认设备 Android 版本满足要求，并检查是否下载了对应�
 ---
 
 ## 📝 更新日志
+
+### v17.0（手机版）
+- 观看历史全新改版，分为「影视记录」和「短剧记录」两个页签，查找更方便
+- 历史记录补齐影片海报图，一眼看清看的是什么
+- 从历史记录点短剧，直接进入短剧连播页并续播对应集数
+- 从历史记录点影视，正常进入播放页并恢复上次观看进度
 
 ### v57.0（TV 版）
 - 弹幕全新升级：与手机端同步接入 AI 弹幕识别，播放时自动匹配官方弹幕，识别成功后按当前播放进度自动显示
