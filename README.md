@@ -10,7 +10,7 @@
 
 | 版本 | 适用设备 | 版本号 | 大小 | 下载 |
 | --- | --- | --- | --- | --- |
-| 📱 星空影视 手机版 | Android 手机 / 平板 | v18.0 | 约 76 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v18.0/Xingkong-Phone-v18.0.apk) |
+| 📱 星空影视 手机版 | Android 手机 / 平板 | v29.1 | 约 76 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v29.1/Xingkong-Phone-v29.1.apk) |
 | 📺 星空影视 TV 版 | 安卓电视 / 电视盒子 | v57.0 | 约 36 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v57.0/Xingkong-TV-v57.0.apk) |
 
 > 💡 **推荐渠道**：优先下载对应设备的最新版本，已修复历史问题、体验更稳定。
@@ -65,6 +65,10 @@ A：请确认设备 Android 版本满足要求，并检查是否下载了对应�
 ---
 
 ## 📝 更新日志
+
+### v29.1（手机版）
+- 体验优化与稳定性升级
+- 修复已知问题
 
 ### v18.0（手机版）
 - 体验优化与稳定性升级
