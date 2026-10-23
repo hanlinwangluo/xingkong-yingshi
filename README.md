@@ -1,8 +1,8 @@
 # 星空影视 ⭐
 
-一款支持 **手机端** 与 **TV端** 的影视应用，安装简单、即装即用，为你带来流畅的观影体验。
+一款支持 **安卓手机 / 苹果手机 / TV 端 / PC 端** 的影视应用，安装简单、即装即用，为你带来流畅的观影体验。
 
-> 本仓库用于分发「星空影视」安装包（APK）。点击下方下载对应版本即可安装使用。
+> 本仓库用于分发「星空影视」安装包。点击下方下载对应版本即可安装使用。
 
 ---
 
@@ -10,8 +10,10 @@
 
 | 版本 | 适用设备 | 版本号 | 大小 | 下载 |
 | --- | --- | --- | --- | --- |
-| 📱 星空影视 手机版 | Android 手机 / 平板 | v34.0 | 约 76 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v34.0/Xingkong-Phone-v34.0.apk) |
-| 📺 星空影视 TV 版 | 安卓电视 / 电视盒子 | v58.0 | 约 36 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v58.0/Xingkong-TV-v58.0.apk) |
+| 📱 安卓手机版 | Android 手机 / 平板 | v35.1.0 | 约 86 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v35.1.0/Xingkong-Android-v35.1.0.apk) |
+| 🍎 苹果手机版 | iPhone / iPad | v60.0 | 约 59 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v60.0-ios/Xingkong-iOS-v60.0.ipa) |
+| 📺 TV 版 | 安卓电视 / 电视盒子 | v60.0 | 约 35 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v60.0/Xingkong-TV-v60.0.apk) |
+| 💻 PC 版 | Windows 电脑 | v59.0 | 约 27 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v59.0/Xingkong-PC-v59.0.exe) |
 
 > 💡 **推荐渠道**：优先下载对应设备的最新版本，已修复历史问题、体验更稳定。
 >
@@ -65,6 +67,22 @@ A：请确认设备 Android 版本满足要求，并检查是否下载了对应�
 ---
 
 ## 📝 更新日志
+
+### v35.1.0（安卓手机版）
+- 体验优化与稳定性升级
+- 修复已知问题
+
+### v60.0（苹果手机版）
+- 体验优化与稳定性升级
+- 修复已知问题
+
+### v60.0（TV 版）
+- 体验优化与稳定性升级
+- 修复已知问题
+
+### v59.0（PC 版）
+- 首个 PC 版本发布
+- 支持在 Windows 电脑上观看
 
 ### v34.0（手机版）
 - 首页与筛选分类全面动态化：分类读取苹果 CMS 后台配置，显示/隐藏、排序、改名、增删实时同步，精选固定首位
