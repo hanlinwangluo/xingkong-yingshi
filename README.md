@@ -10,7 +10,7 @@
 
 | 版本 | 适用设备 | 版本号 | 大小 | 下载 |
 | --- | --- | --- | --- | --- |
-| 📱 安卓手机版 | Android 手机 / 平板 | v35.1.0 | 约 86 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v35.1.0/Xingkong-Android-v35.1.0.apk) |
+| 📱 安卓手机版 | Android 手机 / 平板 | v60.0 | 约 86 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v60.0-android/Xingkong-Android-v60.0.apk) |
 | 🍎 苹果手机版 | iPhone / iPad | v60.1 | 约 64 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v60.1-ios/Xingkong-iOS-v60.1.ipa) |
 | 📺 TV 版 | 安卓电视 / 电视盒子 | v60.0 | 约 35 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v60.0/Xingkong-TV-v60.0.apk) |
 | 💻 PC 版 | Windows 电脑 | v59.0 | 约 27 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v59.0/Xingkong-PC-v59.0.exe) |
@@ -67,6 +67,10 @@ A：请确认设备 Android 版本满足要求，并检查是否下载了对应�
 ---
 
 ## 📝 更新日志
+
+### v60.0（安卓手机版）
+- 体验优化与稳定性升级
+- 修复已知问题
 
 ### v60.1（苹果手机版）
 - 体验优化与稳定性升级
