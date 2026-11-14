@@ -10,10 +10,10 @@
 
 | 版本 | 适用设备 | 版本号 | 大小 | 下载 |
 | --- | --- | --- | --- | --- |
-| 📱 安卓手机版 | Android 手机 / 平板 | v62.0 | 约 95 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v62.0-android/Xingkong-Android-v62.0.apk) |
-| 🍎 苹果手机版 | iPhone / iPad | v62.0 | 约 64 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v62.0-ios/Xingkong-iOS-v62.0.ipa) |
-| 📺 TV 版 | 安卓电视 / 电视盒子 | v62.0 | 约 33 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v62.0-tv/Xingkong-TV-v62.0.apk) |
-| 💻 PC 版 | Windows 电脑 | v62.0 | 约 26 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v62.0-pc/Xingkong-PC-v62.0.exe) |
+| 📱 安卓手机版 | Android 手机 / 平板 | v63.0 | 约 95 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v63.0-android/Xingkong-Android-v63.0.apk) |
+| 🍎 苹果手机版 | iPhone / iPad | v64.0 | 约 69 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v64.0-ios/Xingkong-iOS-v64.0.ipa) |
+| 📺 TV 版 | 安卓电视 / 电视盒子 | v60.0 | 约 35 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v60.0/Xingkong-TV-v60.0.apk) |
+| 💻 PC 版 | Windows 电脑 | v59.0 | 约 27 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-yingshi/releases/download/v59.0/Xingkong-PC-v59.0.exe) |
 
 > 💡 **推荐渠道**：优先下载对应设备的最新版本，已修复历史问题、体验更稳定。
 >
@@ -68,15 +68,12 @@ A：请确认设备 Android 版本满足要求，并检查是否下载了对应�
 
 ## 📝 更新日志
 
-### v62.0（安卓 / 苹果 / TV / PC 四端）
-- 四端版本同步更新云端存储历史播放记录
-- TV端以及PC端更新弹幕逻辑
-- TV端UI全面更换并优化整体流畅度
-- PC端修改部分UI
-- 修复部分已知BUG
-- 新增部分未知BUG
+### v64.0（苹果手机版）
+- 新增腾讯云内核
+- 修复短剧页面部分 bug
+- 修复视频播放部分 bug
 
-### v61.0（安卓 / 苹果手机版）
+### v63.0（安卓手机版）
 - 新增腾讯云内核
 - 修复短剧页面部分 bug
 - 修复视频播放部分 bug
